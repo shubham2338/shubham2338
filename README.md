@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2338&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2338" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubham2338.github.io/My-Portfolio-Page/Homepage.html](https://shubham2338.github.io/My-Portfolio-Page/Homepage.html)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubhworks.com)
 
 - 📫 How to reach me **singhshubham2338@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y-CzEuak8JMLEp4aVskiwCHBYVR1UaIG/view](https://drive.google.com/file/d/1Y-CzEuak8JMLEp4aVskiwCHBYVR1UaIG/view)
 
 - ⚡ Fun fact **I am Lucky😀**
 
